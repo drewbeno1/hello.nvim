@@ -1,4 +1,4 @@
-## Start your neovim session off right :) 
+### Start your neovim session off right :) 
 
 ```lua
 return {
